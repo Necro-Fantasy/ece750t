@@ -1,0 +1,61 @@
+split,measure,point,lo,hi
+0,baseline resampling,0.852065,0.842072,0.862339
+0,baseline init,0.860497,0.845317,0.874454
+0,baseline order,0.843017,0.828939,0.856437
+0,cross resampling-init,0.424164,0.411589,0.438181
+0,delta resampling-init,0.427901,0.412962,0.441144
+0,cross resampling-order,0.525141,0.512591,0.537962
+0,delta resampling-order,0.317876,0.301623,0.332164
+0,cross init-order,0.472025,0.455811,0.487706
+0,delta init-order,0.370992,0.352620,0.389422
+0,containment baseline init,0.925110,0.916346,0.933150
+0,containment init in resampling,0.949262,0.941714,0.956205
+0,containment baseline order,0.914948,0.906577,0.922767
+0,containment order in resampling,0.992270,0.989773,0.994557
+0,containment init in order,0.693404,0.675149,0.710966
+0,spearman baseline resampling,0.920247,nan,nan
+0,spearman baseline init,0.911784,nan,nan
+0,spearman baseline order,0.912362,nan,nan
+0,spearman resampling-init,0.711809,nan,nan
+0,spearman resampling-order,0.773936,nan,nan
+0,spearman init-order,0.801991,nan,nan
+1,baseline resampling,0.842570,0.832237,0.852903
+1,baseline init,0.840533,0.825975,0.856219
+1,baseline order,0.837797,0.822277,0.851811
+1,cross resampling-init,0.419737,0.406586,0.433199
+1,delta resampling-init,0.420796,0.403748,0.432210
+1,cross resampling-order,0.535715,0.522340,0.548673
+1,delta resampling-order,0.302082,0.286178,0.314065
+1,cross init-order,0.481351,0.464990,0.497809
+1,delta init-order,0.356446,0.335413,0.370578
+1,containment baseline init,0.913363,0.904746,0.922599
+1,containment init in resampling,0.958296,0.951273,0.965117
+1,containment baseline order,0.911748,0.902486,0.919977
+1,containment order in resampling,0.991584,0.989010,0.993962
+1,containment init in order,0.720225,0.702512,0.737421
+1,spearman baseline resampling,0.919027,nan,nan
+1,spearman baseline init,0.910231,nan,nan
+1,spearman baseline order,0.914782,nan,nan
+1,spearman resampling-init,0.705744,nan,nan
+1,spearman resampling-order,0.776420,nan,nan
+1,spearman init-order,0.805198,nan,nan
+2,baseline resampling,0.837861,0.827123,0.847251
+2,baseline init,0.850362,0.835678,0.865263
+2,baseline order,0.845020,0.831123,0.858700
+2,cross resampling-init,0.429085,0.415080,0.442987
+2,delta resampling-init,0.408775,0.393416,0.423889
+2,cross resampling-order,0.523698,0.509696,0.536661
+2,delta resampling-order,0.314162,0.298492,0.327383
+2,cross init-order,0.468346,0.451314,0.486676
+2,delta init-order,0.376673,0.356459,0.393856
+2,containment baseline init,0.919132,0.910534,0.927787
+2,containment init in resampling,0.940506,0.931034,0.949457
+2,containment baseline order,0.916016,0.907791,0.923990
+2,containment order in resampling,0.991466,0.988867,0.994022
+2,containment init in order,0.679814,0.661033,0.699565
+2,spearman baseline resampling,0.919847,nan,nan
+2,spearman baseline init,0.909692,nan,nan
+2,spearman baseline order,0.914858,nan,nan
+2,spearman resampling-init,0.700632,nan,nan
+2,spearman resampling-order,0.770492,nan,nan
+2,spearman init-order,0.792810,nan,nan

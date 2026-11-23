@@ -1,0 +1,128 @@
+{
+  "split 0": {
+    "reference model": {
+      "checked": 1,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "all": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "init_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "init_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "order_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "order_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "resampling_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "resampling_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    }
+  },
+  "split 1": {
+    "reference model": {
+      "checked": 1,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "all": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "init_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "init_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "order_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "order_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "resampling_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "resampling_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    }
+  },
+  "split 2": {
+    "reference model": {
+      "checked": 1,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "all": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "init_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "init_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "order_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "order_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "resampling_A": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    },
+    "resampling_B": {
+      "checked": 101,
+      "not_identical": 0,
+      "max_diff": 0.0
+    }
+  }
+}

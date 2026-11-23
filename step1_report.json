@@ -1,0 +1,63 @@
+{
+  "versions": {
+    "python": "3.12.7",
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "sklearn": "1.5.1",
+    "torch": "2.6.0+cu118",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "folktables": "0.0.12"
+  },
+  "seed_checks": {
+    "results": {
+      "same seeds again": {
+        "max_prob_diff": 0.0,
+        "label_flips": 0
+      },
+      "only init_seed changed": {
+        "max_prob_diff": 0.2717238664627075,
+        "label_flips": 56
+      },
+      "only order_seed changed": {
+        "max_prob_diff": 0.022111892700195312,
+        "label_flips": 6
+      },
+      "only boot_seed changed": {
+        "max_prob_diff": 0.22504335641860962,
+        "label_flips": 42
+      },
+      "logistic regression, row order changed": {
+        "max_prob_diff": 2.220446049250313e-16,
+        "label_flips": 0
+      }
+    },
+    "checks": {
+      "same seeds give identical predictions": true,
+      "init seed changes predictions": true,
+      "order seed changes predictions": true,
+      "bootstrap seed changes predictions": true,
+      "logistic regression has no label flips": true
+    }
+  },
+  "acs_income_ca_2018": {
+    "rows": 195665,
+    "feature_columns": [
+      "AGEP",
+      "COW",
+      "SCHL",
+      "MAR",
+      "OCCP",
+      "POBP",
+      "RELP",
+      "WKHP",
+      "SEX",
+      "RAC1P"
+    ],
+    "positive_rate": 0.4105741956916158,
+    "male": 103311,
+    "female": 92354,
+    "positive_rate_male": 0.4655554587604418,
+    "positive_rate_female": 0.3490698832752236,
+    "load_seconds": 16.1
+  }
+}

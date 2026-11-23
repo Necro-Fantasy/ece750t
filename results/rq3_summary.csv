@@ -1,0 +1,433 @@
+split,measure,point,lo,hi
+0,fpr base men resampling,0.159394,0.153068,0.165046
+0,fnr base men resampling,0.223067,0.215930,0.230620
+0,fpr ens men resampling,0.120416,0.113658,0.126467
+0,fnr ens men resampling,0.181787,0.173758,0.190132
+0,fpr indiv_kept men resampling,0.123708,0.117105,0.129620
+0,fnr indiv_kept men resampling,0.184127,0.176434,0.192239
+0,fpr vote_all men resampling,0.151725,0.144951,0.157740
+0,fnr vote_all men resampling,0.219877,0.212036,0.227941
+0,abstain neg men resampling,0.106221,0.100769,0.111864
+0,abstain pos men resampling,0.130731,0.124371,0.136931
+0,fpr base women resampling,0.139367,0.133908,0.144906
+0,fnr base women resampling,0.238514,0.230278,0.247849
+0,fpr ens women resampling,0.105087,0.099201,0.110654
+0,fnr ens women resampling,0.193422,0.184104,0.203631
+0,fpr indiv_kept women resampling,0.107613,0.101992,0.112971
+0,fnr indiv_kept women resampling,0.195354,0.186244,0.205304
+0,fpr vote_all women resampling,0.133702,0.127911,0.139839
+0,fnr vote_all women resampling,0.235344,0.225943,0.245769
+0,abstain neg women resampling,0.091782,0.086807,0.096934
+0,abstain pos women resampling,0.150900,0.142312,0.159616
+0,acc base resampling,0.818071,0.814838,0.821329
+0,acc ens resampling,0.858055,0.854767,0.861726
+0,coverage resampling,0.884829,0.881876,0.887909
+0,fpr gap base resampling,-0.020027,-0.028005,-0.011915
+0,fpr gap ens resampling,-0.015328,-0.023228,-0.006600
+0,fpr gap indiv_kept resampling,-0.016095,-0.023758,-0.007522
+0,fpr gap vote_all resampling,-0.018023,-0.026715,-0.009536
+0,fpr reduction resampling,0.004699,0.001288,0.008068
+0,fnr gap base resampling,0.015447,0.004782,0.026441
+0,fnr gap ens resampling,0.011635,-0.001023,0.024059
+0,fnr gap indiv_kept resampling,0.011227,-0.001378,0.023075
+0,fnr gap vote_all resampling,0.015467,0.003603,0.027830
+0,fnr reduction resampling,0.003812,-0.001202,0.008280
+0,fpr noise resampling,0.000208,-0.001615,0.002215
+0,fnr noise resampling,-0.001000,-0.003564,0.001763
+0,fpr base men init,0.150164,0.143411,0.156206
+0,fnr base men init,0.226040,0.218569,0.234006
+0,fpr ens men init,0.133845,0.127180,0.139857
+0,fnr ens men init,0.208077,0.200075,0.216579
+0,fpr indiv_kept men init,0.134793,0.128181,0.140671
+0,fnr indiv_kept men init,0.208469,0.200588,0.216824
+0,fpr vote_all men init,0.148465,0.141282,0.154813
+0,fnr vote_all men init,0.224504,0.216417,0.232740
+0,abstain neg men init,0.044689,0.041004,0.048329
+0,abstain pos men init,0.061701,0.057024,0.066385
+0,fpr base women init,0.126795,0.121085,0.132443
+0,fnr base women init,0.248567,0.239317,0.258588
+0,fpr ens women init,0.111285,0.105461,0.116556
+0,fnr ens women init,0.226938,0.217355,0.237963
+0,fpr indiv_kept women init,0.111774,0.105964,0.117068
+0,fnr indiv_kept women init,0.227657,0.218199,0.238482
+0,fpr vote_all women init,0.125426,0.119534,0.130941
+0,fnr vote_all women init,0.249457,0.239852,0.259867
+0,abstain neg women init,0.041462,0.038150,0.045185
+0,abstain pos women init,0.073666,0.068042,0.079813
+0,acc base init,0.822151,0.818759,0.825613
+0,acc ens init,0.840097,0.836510,0.843497
+0,coverage init,0.947346,0.945237,0.949391
+0,fpr gap base init,-0.023369,-0.031619,-0.014762
+0,fpr gap ens init,-0.022561,-0.030818,-0.013952
+0,fpr gap indiv_kept init,-0.023018,-0.031139,-0.014501
+0,fpr gap vote_all init,-0.023039,-0.031655,-0.013976
+0,fpr reduction init,0.000809,-0.001415,0.003029
+0,fnr gap base init,0.022528,0.010778,0.034479
+0,fnr gap ens init,0.018861,0.006469,0.031250
+0,fnr gap indiv_kept init,0.019188,0.006921,0.031414
+0,fnr gap vote_all init,0.024954,0.012561,0.037287
+0,fnr reduction init,0.003666,0.000598,0.006462
+0,fpr noise init,-0.000091,-0.001312,0.001121
+0,fnr noise init,-0.000839,-0.002949,0.001306
+0,fpr base men order,0.155645,0.149060,0.161485
+0,fnr base men order,0.219040,0.211583,0.226875
+0,fpr ens men order,0.135848,0.129058,0.142011
+0,fnr ens men order,0.197516,0.189782,0.205874
+0,fpr indiv_kept men order,0.136857,0.130104,0.142874
+0,fnr indiv_kept men order,0.197972,0.190417,0.206286
+0,fpr vote_all men order,0.153355,0.146513,0.159573
+0,fnr vote_all men order,0.218630,0.210583,0.226594
+0,abstain neg men order,0.054107,0.050270,0.058042
+0,abstain pos men order,0.071005,0.065807,0.076353
+0,fpr base women order,0.136738,0.131153,0.142536
+0,fnr base women order,0.233211,0.224332,0.243132
+0,fpr ens women order,0.118341,0.112356,0.124235
+0,fnr ens women order,0.209252,0.199845,0.219302
+0,fpr indiv_kept women order,0.119232,0.113345,0.125073
+0,fnr indiv_kept women order,0.209978,0.200663,0.219918
+0,fpr vote_all women order,0.134700,0.128854,0.140882
+0,fnr vote_all women order,0.231777,0.222462,0.241970
+0,abstain neg women order,0.049073,0.045431,0.053111
+0,abstain pos women order,0.081343,0.075348,0.087542
+0,acc base order,0.821800,0.818363,0.825124
+0,acc ens order,0.842765,0.839248,0.846389
+0,coverage order,0.938798,0.936537,0.941240
+0,fpr gap base order,-0.018907,-0.027266,-0.010070
+0,fpr gap ens order,-0.017507,-0.025758,-0.008503
+0,fpr gap indiv_kept order,-0.017625,-0.025757,-0.008649
+0,fpr gap vote_all order,-0.018655,-0.027567,-0.009337
+0,fpr reduction order,0.001400,-0.001085,0.003788
+0,fnr gap base order,0.014171,0.002759,0.025573
+0,fnr gap ens order,0.011737,-0.000840,0.024511
+0,fnr gap indiv_kept order,0.012006,-0.000384,0.024554
+0,fnr gap vote_all order,0.013148,0.001103,0.025665
+0,fnr reduction order,0.002435,-0.001215,0.005405
+0,fpr noise order,-0.000487,-0.001929,0.000900
+0,fnr noise order,-0.002204,-0.004214,0.001431
+0,fpr base men all,0.159997,0.153727,0.165629
+0,fnr base men all,0.221605,0.214557,0.229022
+0,fpr ens men all,0.121553,0.114824,0.127301
+0,fnr ens men all,0.179794,0.172118,0.188334
+0,fpr indiv_kept men all,0.124404,0.117725,0.130248
+0,fnr indiv_kept men all,0.181911,0.174353,0.190462
+0,fpr vote_all men all,0.153038,0.146241,0.159640
+0,fnr vote_all men all,0.218318,0.210476,0.226056
+0,abstain neg men all,0.106764,0.100884,0.112482
+0,abstain pos men all,0.131511,0.125168,0.138413
+0,fpr base women all,0.138788,0.133439,0.144412
+0,fnr base women all,0.238404,0.230157,0.247926
+0,fpr ens women all,0.103461,0.097780,0.109016
+0,fnr ens women all,0.194652,0.184750,0.205028
+0,fpr indiv_kept women all,0.106106,0.100583,0.111504
+0,fnr indiv_kept women all,0.196658,0.187024,0.206871
+0,fpr vote_all women all,0.133827,0.127870,0.139874
+0,fnr vote_all women all,0.233406,0.224219,0.243731
+0,abstain neg women all,0.091574,0.086617,0.096695
+0,abstain pos women all,0.147488,0.138888,0.156286
+0,acc base all,0.818457,0.815124,0.821786
+0,acc ens all,0.858504,0.855090,0.862124
+0,coverage all,0.885110,0.882043,0.888178
+0,fpr gap base all,-0.021210,-0.029258,-0.013381
+0,fpr gap ens all,-0.018092,-0.026048,-0.009098
+0,fpr gap indiv_kept all,-0.018298,-0.026105,-0.009623
+0,fpr gap vote_all all,-0.019211,-0.028092,-0.010174
+0,fpr reduction all,0.003118,-0.000381,0.006591
+0,fnr gap base all,0.016799,0.005682,0.028304
+0,fnr gap ens all,0.014858,0.001893,0.027192
+0,fnr gap indiv_kept all,0.014747,0.002344,0.026795
+0,fnr gap vote_all all,0.015088,0.002691,0.027721
+0,fnr reduction all,0.001942,-0.002806,0.006644
+0,fpr ref men,0.153219,0.146425,0.159436
+0,fpr ref women,0.128088,0.122170,0.134189
+0,fpr gap ref,-0.025131,-0.033601,-0.015430
+0,fnr ref men,0.224140,0.216080,0.232646
+0,fnr ref women,0.246123,0.236214,0.257006
+0,fnr gap ref,0.021983,0.009478,0.034703
+1,fpr base men resampling,0.164542,0.158333,0.170522
+1,fnr base men resampling,0.219235,0.212115,0.225953
+1,fpr ens men resampling,0.124353,0.118139,0.130268
+1,fnr ens men resampling,0.179287,0.171292,0.186953
+1,fpr indiv_kept men resampling,0.127210,0.120957,0.133151
+1,fnr indiv_kept men resampling,0.181298,0.173452,0.188863
+1,fpr vote_all men resampling,0.159966,0.153172,0.166383
+1,fnr vote_all men resampling,0.212652,0.204626,0.220057
+1,abstain neg men resampling,0.107579,0.101616,0.113301
+1,abstain pos men resampling,0.132238,0.125550,0.138733
+1,fpr base women resampling,0.142548,0.136671,0.148437
+1,fnr base women resampling,0.227429,0.218422,0.236152
+1,fpr ens women resampling,0.106845,0.100817,0.112894
+1,fnr ens women resampling,0.182115,0.172428,0.192037
+1,fpr indiv_kept women resampling,0.109321,0.103392,0.115241
+1,fnr indiv_kept women resampling,0.184957,0.175544,0.194652
+1,fpr vote_all women resampling,0.137279,0.131091,0.143303
+1,fnr vote_all women resampling,0.222627,0.212731,0.232503
+1,abstain neg women resampling,0.092323,0.087351,0.097614
+1,abstain pos women resampling,0.142447,0.134209,0.150620
+1,acc base resampling,0.818410,0.815240,0.821607
+1,acc ens resampling,0.858708,0.855345,0.862199
+1,coverage resampling,0.885301,0.882133,0.888292
+1,fpr gap base resampling,-0.021994,-0.030094,-0.013128
+1,fpr gap ens resampling,-0.017508,-0.026051,-0.008309
+1,fpr gap indiv_kept resampling,-0.017889,-0.026042,-0.008710
+1,fpr gap vote_all resampling,-0.022687,-0.031374,-0.012873
+1,fpr reduction resampling,0.004486,0.001017,0.007834
+1,fnr gap base resampling,0.008194,-0.003464,0.019613
+1,fnr gap ens resampling,0.002828,-0.010035,0.015692
+1,fnr gap indiv_kept resampling,0.003659,-0.008969,0.016064
+1,fnr gap vote_all resampling,0.009975,-0.002831,0.023316
+1,fnr reduction resampling,0.005366,-0.007011,0.008696
+1,fpr noise resampling,-0.001753,-0.003866,0.000491
+1,fnr noise resampling,-0.000573,-0.003134,0.002958
+1,fpr base men init,0.159416,0.152860,0.165824
+1,fnr base men init,0.214570,0.207514,0.221486
+1,fpr ens men init,0.142511,0.135723,0.148793
+1,fnr ens men init,0.197017,0.189579,0.204605
+1,fpr indiv_kept men init,0.143106,0.136494,0.149325
+1,fnr indiv_kept men init,0.197730,0.190340,0.205209
+1,fpr vote_all men init,0.159015,0.152274,0.165793
+1,fnr vote_all men init,0.211768,0.204284,0.218947
+1,abstain neg men init,0.046228,0.042395,0.049868
+1,abstain pos men init,0.058894,0.054470,0.063445
+1,fpr base women init,0.138984,0.132723,0.145012
+1,fnr base women init,0.224113,0.214377,0.233666
+1,fpr ens women init,0.123504,0.117163,0.129561
+1,fnr ens women init,0.204139,0.194239,0.213961
+1,fpr indiv_kept women init,0.123917,0.117687,0.129847
+1,fnr indiv_kept women init,0.204675,0.194953,0.214620
+1,fpr vote_all women init,0.138401,0.132152,0.144534
+1,fnr vote_all women init,0.223248,0.213241,0.233470
+1,abstain neg women init,0.041005,0.037661,0.044382
+1,abstain pos women init,0.067075,0.061482,0.073078
+1,acc base init,0.822644,0.819161,0.826107
+1,acc ens init,0.840118,0.836697,0.843742
+1,coverage init,0.948828,0.946656,0.950784
+1,fpr gap base init,-0.020432,-0.029024,-0.010814
+1,fpr gap ens init,-0.019007,-0.027614,-0.009401
+1,fpr gap indiv_kept init,-0.019188,-0.027615,-0.009712
+1,fpr gap vote_all init,-0.020613,-0.030112,-0.010449
+1,fpr reduction init,0.001425,-0.000789,0.003675
+1,fnr gap base init,0.009543,-0.003744,0.021647
+1,fnr gap ens init,0.007122,-0.006383,0.020647
+1,fnr gap indiv_kept init,0.006945,-0.006320,0.020171
+1,fnr gap vote_all init,0.011479,-0.001728,0.025071
+1,fnr reduction init,0.002421,-0.003480,0.005291
+1,fpr noise init,-0.000238,-0.001433,0.000999
+1,fnr noise init,-0.000014,-0.001984,0.001914
+1,fpr base men order,0.161391,0.154934,0.167568
+1,fnr base men order,0.214591,0.207183,0.221544
+1,fpr ens men order,0.142043,0.135384,0.148393
+1,fnr ens men order,0.193374,0.185343,0.200992
+1,fpr indiv_kept men order,0.142595,0.136054,0.148816
+1,fnr indiv_kept men order,0.194348,0.186386,0.201781
+1,fpr vote_all men order,0.160056,0.153401,0.166699
+1,fnr vote_all men order,0.211353,0.203525,0.219025
+1,abstain neg men order,0.054559,0.050405,0.058802
+1,abstain pos men order,0.072617,0.067218,0.077683
+1,fpr base women order,0.139560,0.133330,0.145590
+1,fnr base women order,0.222729,0.213407,0.232033
+1,fpr ens women order,0.120086,0.114102,0.126409
+1,fnr ens women order,0.198738,0.189044,0.209150
+1,fpr indiv_kept women order,0.120763,0.114757,0.127193
+1,fnr indiv_kept women order,0.199321,0.189477,0.209497
+1,fpr vote_all women order,0.137778,0.131522,0.143919
+1,fnr vote_all women order,0.221929,0.211712,0.232142
+1,abstain neg women order,0.052150,0.048444,0.056003
+1,abstain pos women order,0.078784,0.072042,0.084873
+1,acc base order,0.822133,0.818839,0.825526
+1,acc ens order,0.843121,0.839615,0.846889
+1,coverage order,0.937751,0.935527,0.940153
+1,fpr gap base order,-0.021831,-0.030206,-0.012336
+1,fpr gap ens order,-0.021957,-0.030936,-0.012720
+1,fpr gap indiv_kept order,-0.021832,-0.030808,-0.012654
+1,fpr gap vote_all order,-0.022279,-0.031001,-0.012661
+1,fpr reduction order,-0.000126,-0.002601,0.002179
+1,fnr gap base order,0.008139,-0.004291,0.020389
+1,fnr gap ens order,0.005364,-0.007515,0.018397
+1,fnr gap indiv_kept order,0.004973,-0.007964,0.017642
+1,fnr gap vote_all order,0.010577,-0.002014,0.023678
+1,fnr reduction order,0.002774,-0.004056,0.005310
+1,fpr noise order,0.000695,-0.000778,0.002224
+1,fnr noise order,0.001663,-0.002664,0.003724
+1,fpr base men all,0.164712,0.158493,0.170559
+1,fnr base men all,0.217848,0.211015,0.224759
+1,fpr ens men all,0.125076,0.118528,0.131167
+1,fnr ens men all,0.176513,0.168541,0.184135
+1,fpr indiv_kept men all,0.127698,0.121384,0.133772
+1,fnr indiv_kept men all,0.178774,0.171002,0.186019
+1,fpr vote_all men all,0.159739,0.152592,0.166169
+1,fnr vote_all men all,0.211872,0.204023,0.219633
+1,abstain neg men all,0.106583,0.100442,0.112304
+1,abstain pos men all,0.132446,0.126062,0.139209
+1,fpr base women all,0.142512,0.136435,0.148339
+1,fnr base women all,0.226580,0.217460,0.235516
+1,fpr ens women all,0.106685,0.100336,0.112793
+1,fnr ens women all,0.181982,0.172211,0.192232
+1,fpr indiv_kept women all,0.109291,0.103231,0.115115
+1,fnr indiv_kept women all,0.184653,0.174957,0.194354
+1,fpr vote_all women all,0.137237,0.130933,0.143268
+1,fnr vote_all women all,0.222550,0.212614,0.232690
+1,abstain neg women all,0.091741,0.086688,0.097180
+1,abstain pos women all,0.139268,0.131252,0.148046
+1,acc base all,0.818854,0.815635,0.822131
+1,acc ens all,0.859231,0.855867,0.862836
+1,coverage all,0.886234,0.882911,0.889326
+1,fpr gap base all,-0.022199,-0.030205,-0.013208
+1,fpr gap ens all,-0.018391,-0.027145,-0.009070
+1,fpr gap indiv_kept all,-0.018407,-0.027056,-0.009568
+1,fpr gap vote_all all,-0.022502,-0.031511,-0.012592
+1,fpr reduction all,0.003808,0.000035,0.007160
+1,fnr gap base all,0.008733,-0.003009,0.020120
+1,fnr gap ens all,0.005469,-0.007374,0.017585
+1,fnr gap indiv_kept all,0.005878,-0.006550,0.017635
+1,fnr gap vote_all all,0.010677,-0.002223,0.023785
+1,fnr reduction all,0.003264,-0.004674,0.007425
+1,fpr ref men,0.161731,0.154951,0.168455
+1,fpr ref women,0.140897,0.134269,0.147156
+1,fpr gap ref,-0.020835,-0.029666,-0.011066
+1,fnr ref men,0.212808,0.205056,0.220319
+1,fnr ref women,0.219913,0.209130,0.230189
+1,fnr gap ref,0.007105,-0.006222,0.020495
+2,fpr base men resampling,0.163149,0.157048,0.169091
+2,fnr base men resampling,0.216973,0.209473,0.224204
+2,fpr ens men resampling,0.124532,0.118296,0.130860
+2,fnr ens men resampling,0.177095,0.168802,0.184652
+2,fpr indiv_kept men resampling,0.127400,0.121234,0.133620
+2,fnr indiv_kept men resampling,0.179204,0.171309,0.186620
+2,fpr vote_all men resampling,0.157475,0.150890,0.163880
+2,fnr vote_all men resampling,0.213068,0.205100,0.220740
+2,abstain neg men resampling,0.105587,0.099915,0.110864
+2,abstain pos men resampling,0.122674,0.116059,0.129135
+2,fpr base women resampling,0.144329,0.138599,0.149754
+2,fnr base women resampling,0.238067,0.228745,0.247658
+2,fpr ens women resampling,0.109294,0.103562,0.114980
+2,fnr ens women resampling,0.195466,0.185003,0.205345
+2,fpr indiv_kept women resampling,0.111912,0.106179,0.117446
+2,fnr indiv_kept women resampling,0.197579,0.187438,0.206915
+2,fpr vote_all women resampling,0.138942,0.132986,0.145044
+2,fnr vote_all women resampling,0.232475,0.221993,0.243029
+2,abstain neg women resampling,0.089828,0.084760,0.094794
+2,abstain pos women resampling,0.145471,0.137588,0.153828
+2,acc base resampling,0.817059,0.813791,0.820342
+2,acc ens resampling,0.856266,0.852805,0.859630
+2,coverage resampling,0.888483,0.885519,0.891576
+2,fpr gap base resampling,-0.018820,-0.027152,-0.011046
+2,fpr gap ens resampling,-0.015237,-0.023857,-0.006534
+2,fpr gap indiv_kept resampling,-0.015487,-0.023820,-0.006962
+2,fpr gap vote_all resampling,-0.018533,-0.027706,-0.009777
+2,fpr reduction resampling,0.003583,0.000356,0.006967
+2,fnr gap base resampling,0.021094,0.009169,0.032611
+2,fnr gap ens resampling,0.018372,0.005310,0.031268
+2,fnr gap indiv_kept resampling,0.018376,0.005661,0.030791
+2,fnr gap vote_all resampling,0.019407,0.006031,0.031890
+2,fnr reduction resampling,0.002722,-0.001362,0.007476
+2,fpr noise resampling,-0.000378,-0.002384,0.001683
+2,fnr noise resampling,-0.000677,-0.003798,0.002395
+2,fpr base men init,0.151837,0.145557,0.157806
+2,fnr base men init,0.223338,0.215396,0.231037
+2,fpr ens men init,0.134857,0.128774,0.141051
+2,fnr ens men init,0.206815,0.198636,0.214689
+2,fpr indiv_kept men init,0.135427,0.129307,0.141609
+2,fnr indiv_kept men init,0.207105,0.198949,0.214966
+2,fpr vote_all men init,0.151408,0.144797,0.157640
+2,fnr vote_all men init,0.222009,0.213668,0.230046
+2,abstain neg men init,0.046817,0.042964,0.050861
+2,abstain pos men init,0.060245,0.055452,0.064946
+2,fpr base women init,0.135082,0.129323,0.140911
+2,fnr base women init,0.245441,0.235254,0.255662
+2,fpr ens women init,0.120034,0.114162,0.125870
+2,fnr ens women init,0.227315,0.216367,0.238234
+2,fpr indiv_kept women init,0.120270,0.114461,0.126117
+2,fnr indiv_kept women init,0.228092,0.217227,0.238826
+2,fpr vote_all women init,0.134076,0.128002,0.139949
+2,fnr vote_all women init,0.241470,0.230798,0.251642
+2,abstain neg women init,0.039965,0.036595,0.043356
+2,abstain pos women init,0.072813,0.066600,0.079071
+2,acc base init,0.820312,0.816840,0.823825
+2,acc ens init,0.837313,0.833839,0.840945
+2,coverage init,0.947704,0.945658,0.949864
+2,fpr gap base init,-0.016754,-0.025633,-0.008538
+2,fpr gap ens init,-0.014822,-0.023304,-0.006409
+2,fpr gap indiv_kept init,-0.015157,-0.023390,-0.006742
+2,fpr gap vote_all init,-0.017332,-0.026557,-0.008820
+2,fpr reduction init,0.001932,-0.000215,0.004159
+2,fnr gap base init,0.022103,0.008947,0.034345
+2,fnr gap ens init,0.020500,0.007070,0.033835
+2,fnr gap indiv_kept init,0.020987,0.007377,0.034318
+2,fnr gap vote_all init,0.019462,0.006213,0.032109
+2,fnr reduction init,0.001603,-0.001324,0.004671
+2,fpr noise init,-0.000370,-0.001757,0.000845
+2,fnr noise init,-0.000625,-0.002391,0.001185
+2,fpr base men order,0.160361,0.154038,0.166696
+2,fnr base men order,0.213790,0.205797,0.221237
+2,fpr ens men order,0.140226,0.133664,0.146493
+2,fnr ens men order,0.194823,0.186580,0.202556
+2,fpr indiv_kept men order,0.140872,0.134279,0.147180
+2,fnr indiv_kept men order,0.195201,0.186986,0.202866
+2,fpr vote_all men order,0.158743,0.152065,0.165317
+2,fnr vote_all men order,0.212444,0.204504,0.220564
+2,abstain neg men order,0.055872,0.051990,0.059960
+2,abstain pos men order,0.064300,0.059008,0.068836
+2,fpr base women order,0.141154,0.135239,0.146667
+2,fnr base women order,0.233440,0.223109,0.243248
+2,fpr ens women order,0.123634,0.117645,0.129709
+2,fnr ens women order,0.211092,0.200203,0.221304
+2,fpr indiv_kept women order,0.124275,0.118402,0.130170
+2,fnr indiv_kept women order,0.212180,0.201638,0.222296
+2,fpr vote_all women order,0.139524,0.133212,0.145628
+2,fnr vote_all women order,0.231234,0.220551,0.241499
+2,abstain neg women order,0.048407,0.044775,0.051923
+2,abstain pos women order,0.077233,0.070947,0.083505
+2,acc base order,0.820366,0.816929,0.823955
+2,acc ens order,0.840130,0.836617,0.843735
+2,coverage order,0.940830,0.938721,0.943322
+2,fpr gap base order,-0.019206,-0.027653,-0.010774
+2,fpr gap ens order,-0.016592,-0.024797,-0.007772
+2,fpr gap indiv_kept order,-0.016597,-0.024820,-0.007982
+2,fpr gap vote_all order,-0.019219,-0.028157,-0.010578
+2,fpr reduction order,0.002614,0.000251,0.005017
+2,fnr gap base order,0.019650,0.006637,0.031668
+2,fnr gap ens order,0.016270,0.002963,0.029206
+2,fnr gap indiv_kept order,0.016979,0.004283,0.029689
+2,fnr gap vote_all order,0.018790,0.005006,0.031266
+2,fnr reduction order,0.003380,0.000423,0.006383
+2,fpr noise order,0.000438,-0.000955,0.001827
+2,fnr noise order,-0.000795,-0.002863,0.001030
+2,fpr base men all,0.162676,0.156531,0.168676
+2,fnr base men all,0.217062,0.209556,0.224412
+2,fpr ens men all,0.125278,0.118808,0.131621
+2,fnr ens men all,0.177709,0.169654,0.185358
+2,fpr indiv_kept men all,0.127925,0.121554,0.133985
+2,fnr indiv_kept men all,0.179477,0.171607,0.186832
+2,fpr vote_all men all,0.157023,0.150153,0.163348
+2,fnr vote_all men all,0.212600,0.204646,0.220435
+2,abstain neg men all,0.103686,0.098092,0.109419
+2,abstain pos men all,0.126001,0.118995,0.132469
+2,fpr base women all,0.143929,0.138191,0.149376
+2,fnr base women all,0.238995,0.229470,0.248199
+2,fpr ens women all,0.109091,0.103410,0.114777
+2,fnr ens women all,0.196302,0.185898,0.206520
+2,fpr indiv_kept women all,0.111709,0.106118,0.117306
+2,fnr indiv_kept women all,0.198976,0.188839,0.208732
+2,fpr vote_all women all,0.139982,0.133706,0.146060
+2,fnr vote_all women all,0.234026,0.223113,0.244158
+2,abstain neg women all,0.089661,0.084720,0.094548
+2,abstain pos women all,0.144386,0.136292,0.153245
+2,acc base all,0.817140,0.813905,0.820422
+2,acc ens all,0.855869,0.852378,0.859309
+2,coverage all,0.888432,0.885493,0.891550
+2,fpr gap base all,-0.018748,-0.027111,-0.010884
+2,fpr gap ens all,-0.016187,-0.024677,-0.007497
+2,fpr gap indiv_kept all,-0.016216,-0.024552,-0.007808
+2,fpr gap vote_all all,-0.017041,-0.026336,-0.008195
+2,fpr reduction all,0.002561,-0.000640,0.006119
+2,fnr gap base all,0.021933,0.009867,0.033369
+2,fnr gap ens all,0.018593,0.005617,0.031953
+2,fnr gap indiv_kept all,0.019500,0.006772,0.032450
+2,fnr gap vote_all all,0.021426,0.008031,0.034405
+2,fnr reduction all,0.003340,-0.000865,0.008220
+2,fpr ref men,0.151318,0.144819,0.157535
+2,fpr ref women,0.134575,0.128619,0.140797
+2,fpr gap ref,-0.016742,-0.025939,-0.008139
+2,fnr ref men,0.222788,0.214420,0.230705
+2,fnr ref women,0.247364,0.236737,0.258110
+2,fnr gap ref,0.024575,0.011224,0.037624

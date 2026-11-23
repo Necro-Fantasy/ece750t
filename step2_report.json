@@ -1,0 +1,40 @@
+{
+  "data": {
+    "rows": 195665,
+    "n_features": 171,
+    "fit_rows": 140879,
+    "val_rows": 15653,
+    "test_rows_untouched": 39133,
+    "load_and_preprocess_seconds": 6.7,
+    "cpu_count": 32
+  },
+  "logistic_regression": {
+    "val_accuracy": 0.8154986264613812,
+    "seconds": 0.9
+  },
+  "determinism_max_prob_diff": 0.0,
+  "learning_curve": {
+    "median_seconds_per_epoch": 0.3,
+    "best_val_accuracy": 0.8254008816201367,
+    "best_epoch": 29,
+    "val_accuracy_at_10_20_30": [
+      0.8238037436913052,
+      0.8238037436913052,
+      0.823739858174152
+    ]
+  },
+  "runtime_estimate_acsincome_2100_models": {
+    "10_epochs": {
+      "hours_one_process": 1.7,
+      "hours_if_4_parallel": 0.4
+    },
+    "20_epochs": {
+      "hours_one_process": 3.5,
+      "hours_if_4_parallel": 0.9
+    },
+    "30_epochs": {
+      "hours_one_process": 5.2,
+      "hours_if_4_parallel": 1.3
+    }
+  }
+}

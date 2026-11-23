@@ -1,0 +1,71 @@
+{
+  "split": 0,
+  "N": 195665,
+  "m": 156532,
+  "n": 39133,
+  "d": 171,
+  "n_models": 101,
+  "epochs": 20,
+  "workers": 16,
+  "seconds_one_model": 10.7,
+  "minutes_all_models": 15.6,
+  "checks": {
+    "rerun resampling_A model 0: max prob diff (must be 0.0)": 0.0,
+    "rerun init_A model 0: max prob diff (must be 0.0)": 0.0,
+    "logistic regression, rows shuffled (seed 1): label flips (must be 0)": 0,
+    "logistic regression, rows shuffled (seed 2): label flips (must be 0)": 0,
+    "logistic regression test accuracy": 0.8116423478905271
+  },
+  "first_look": {
+    "all": {
+      "model_acc_mean": 0.8185,
+      "model_acc_min": 0.8152,
+      "model_acc_max": 0.8211,
+      "share_any_disagreement": 0.2701,
+      "share_arbitrary_sc_below_075": 0.1149
+    },
+    "init_A": {
+      "model_acc_mean": 0.8222,
+      "model_acc_min": 0.8208,
+      "model_acc_max": 0.8233,
+      "share_any_disagreement": 0.1267,
+      "share_arbitrary_sc_below_075": 0.0532
+    },
+    "init_B": {
+      "model_acc_mean": 0.8221,
+      "model_acc_min": 0.8202,
+      "model_acc_max": 0.8238,
+      "share_any_disagreement": 0.1263,
+      "share_arbitrary_sc_below_075": 0.0521
+    },
+    "order_A": {
+      "model_acc_mean": 0.8217,
+      "model_acc_min": 0.8196,
+      "model_acc_max": 0.8234,
+      "share_any_disagreement": 0.1489,
+      "share_arbitrary_sc_below_075": 0.0619
+    },
+    "order_B": {
+      "model_acc_mean": 0.8219,
+      "model_acc_min": 0.8187,
+      "model_acc_max": 0.8237,
+      "share_any_disagreement": 0.1472,
+      "share_arbitrary_sc_below_075": 0.0605
+    },
+    "resampling_A": {
+      "model_acc_mean": 0.8182,
+      "model_acc_min": 0.8161,
+      "model_acc_max": 0.8204,
+      "share_any_disagreement": 0.2721,
+      "share_arbitrary_sc_below_075": 0.115
+    },
+    "resampling_B": {
+      "model_acc_mean": 0.818,
+      "model_acc_min": 0.816,
+      "model_acc_max": 0.8206,
+      "share_any_disagreement": 0.2728,
+      "share_arbitrary_sc_below_075": 0.1153
+    }
+  },
+  "minutes_total": 16.7
+}
